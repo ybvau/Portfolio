@@ -1,0 +1,17 @@
+name: "Bryan Herbert Jacobs" # some information about you
+nickname: "Bryan"
+image: "images/default-avatar.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Howdy."
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "bryan.herbert.jacobs@gmail.com"
+  phone: "+1 (847) 707-8408"
+
+# a summary of what you do
+summary:
+- I'm interested in accelerating change and the impact it has on society.
+- I like solving existing problems with friends. 
+- I love learning about abstract concepts.
