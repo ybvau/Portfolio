@@ -31,7 +31,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/ybvau/website
+  gitRepo: https://github.com/ybvau/portfolio
   gitBranch: main
   enableBlogPost: true # specify whether you want to write some blog posts or not
   enableTOC: true # specify whether you want to show Table of Contents in reading page
