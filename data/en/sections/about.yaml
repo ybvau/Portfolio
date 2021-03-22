@@ -29,15 +29,15 @@ socialLinks:
   
 - name: Email
   icon: "fas fa-envelope"
-  url: "bryan.herbert.jacobs@gmail.com"
+  url: "https://www.bryan.herbert.jacobs@gmail.com"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "linkedin.com/in/bryanhj/"
+  url: "https://www.linkedin.com/in/bryanhj/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "twitter.com/ybrva"
+  url: "https://www.twitter.com/ybrva"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
