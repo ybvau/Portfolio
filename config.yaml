@@ -37,7 +37,7 @@ params:
   enableTOC: true # specify whether you want to show Table of Contents in reading page
   newsletter:   # Provide newsletter configuration. This feature hasn't been implemented yet.
     enable: False
-  background: "images/default-hero.jpg" ## Hero bg
+  background: "images/_DSC0526.jpg" ## Hero bg
   logo:
     main: images/main-logo.png
     inverted: images/inverted-logo.png

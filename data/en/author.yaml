@@ -1,5 +1,5 @@
 name: "Bryan Herbert Jacobs" # some information about you
-nickname: "Bryan"
+nickname: ""
 image: "images/default-avatar.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
@@ -14,4 +14,4 @@ contactInfo:
 summary:
 - I'm interested in accelerating change and the impact it has on society.
 - I like solving existing problems with friends. 
-- I love learning about abstract concepts.
+- I study interdisciplinary abstraction.
